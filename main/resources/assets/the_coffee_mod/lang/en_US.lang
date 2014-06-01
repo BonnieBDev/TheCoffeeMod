@@ -1,0 +1,6 @@
+tile.beanRoasterIdle.name=Coffee Bean Roaster
+tile.beanRoasterActive.name=Coffee Bean Roaster Active
+
+
+itemGroup.MainTab=The Coffee Mod
+itemGroup.CoffeeBeansTab=Coffee Beans
